@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "paises",
+    "collectionId": "611029f1-d42b-48d7-9150-e11a6b89cdfa",
+    "dateExported": "2024-06-17T16:41:39.259Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "026a5474-57aa-4a4a-9e4c-ad904de91fb7",
+            "colId": "611029f1-d42b-48d7-9150-e11a6b89cdfa",
+            "containerId": "",
+            "name": "mostrarPaises",
+            "url": "http://localhost:8080/api/pais",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-06-17T16:02:28.878Z",
+            "modified": "2024-06-17T16:30:47.512Z",
+            "headers": []
+        }
+    ],
+    "ref": "EHSXeDBQUt7ibtR8MQeQWDtdLoZkGdwhXcsjDfZNcwOnXSpJVpL5hKppu1kPevlXNYLD07J60ayle-memiictQ"
+}
